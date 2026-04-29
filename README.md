@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue.js+%7C+HTML+%7C+CSS;V2X+%26+EV+Charging+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I%27m+Miae;Backend+Developer;Java+%26+Spring+Boot;Growing+Every+Day+%F0%9F%9A%80)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanmiae&label=Profile+Views&color=4CAF50&style=flat)
 
