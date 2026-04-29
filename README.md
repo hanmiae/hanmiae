@@ -35,9 +35,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs) 
 
 ### Database 
-![Oracle](https://img.shields.io/badge/Oracle-red?style=plastic&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=plastic&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=oracle)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
 ### Tools 
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git) 
